@@ -1,0 +1,11 @@
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\bin\Debug\quanlisinhvienHUNRE.exe.config
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\bin\Debug\quanlisinhvienHUNRE.exe
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\bin\Debug\quanlisinhvienHUNRE.pdb
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.csproj.AssemblyReference.cache
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.Form1.resources
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.Properties.Resources.resources
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.csproj.GenerateResource.cache
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.csproj.CoreCompileInputs.cache
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.exe
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.pdb
+D:\hocki2nam3\Công nghệ.Net\fromdangnhap\quanlisinhvienHUNRE\quanlisinhvienHUNRE\obj\Debug\quanlisinhvienHUNRE.LopHoc.resources
